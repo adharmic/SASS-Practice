@@ -30,3 +30,40 @@ img {
 h1 a {
   color: red;
 }
+
+h1 {
+  color: #F9B572;
+  margin-bottom: 0.75rem;
+}
+
+a {
+  color: #99B080;
+}
+
+button {
+  color: white;
+  border: 0;
+  background: #F9B572;
+  border-radius: 20px;
+  padding: 0.75rem;
+}
+
+.error {
+  color: #c08080;
+  border-color: #c08080;
+  border-style: solid;
+  margin: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 20px;
+  border-width: 1px;
+}
+
+.notification {
+  color: #ffe89b;
+  border-color: #ffe89b;
+  border-style: solid;
+  margin: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 20px;
+  border-width: 1px;
+}
